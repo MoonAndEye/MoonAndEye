@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={MoonAndEye}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonAndEye&hide=Jupyter%20Notebook,html,ruby,css)](https://github.com/anuraghazra/github-readme-stats)
 
 A native iOS/macOS developer. Developing apps with Obj-C and Swift. Also have experience in Android with Kotlin developing.
