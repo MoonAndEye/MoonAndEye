@@ -1,22 +1,5 @@
-### Hi there 👋
-
-## [Personal Blog](https://moonandeye.github.io)
-
-<!--
-**MoonAndEye/MoonAndEye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoonAndEye&hide=Jupyter%20Notebook,html,ruby,css)](https://github.com/anuraghazra/github-readme-stats)
-
-A native iOS/macOS developer. Developing apps with Obj-C and Swift. Also have experience in Android with Kotlin developing.
+👋 Marvin Lin | MoonAndEye
+• 8+ yrs crafting production-grade iOS/macOS apps in Swift, SwiftUI & Obj-C— from SDKs to App Store launches
+• Indie maker behind twstockbot.com, Safe Kids Video, PlayNest & EarningsRosetta—blending AI, finance, and ed-tech
+• Cross-platform explorer: Android (Kotlin), Flutter, Python (Django/FastAPI), Cloudflare Workers + D1/KV
+• Passionate about clean architecture, CI/CD, serverless, and writing bilingual tech/blog posts that help devs ship faster 🚀
