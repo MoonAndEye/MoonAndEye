@@ -2,7 +2,7 @@
 
 • 8+ yrs crafting production-grade iOS/macOS apps in Swift, SwiftUI & Obj-C— from SDKs to App Store launches
 
-• Indie maker behind twstockbot.com, Safe Kids Video, PlayNest & EarningsRosetta—blending AI, finance, and ed-tech
+• Indie maker behind twstockbot.com, Safe Kids Video, PlayNest & Earnings Rosetta, finance, and ed-tech
 
 • Cross-platform explorer: Android (Kotlin), Flutter, Python (Django/FastAPI), Cloudflare Workers + D1/KV
 
