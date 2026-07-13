@@ -1,5 +1,7 @@
 👋 Marvin Lin | MoonAndEye
 
+[Youtube - Marvin Builds](https://www.youtube.com/@MarvinBuildsAI)
+
 • 8+ yrs crafting production-grade iOS/macOS apps in Swift, SwiftUI & Obj-C— from SDKs to App Store launches
 
 • Indie maker behind twstockbot.com, Safe Kids Video, PlayNest & Earnings Rosetta, finance, and ed-tech
