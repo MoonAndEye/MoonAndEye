@@ -57,7 +57,8 @@ Currently in **Alpha**.
 
 ## 🧰 Stack
 
-**Mobile** — Swift · SwiftUI · Objective-C · Flutter/Dart · Kotlin
+**Platforms** — iOS · macOS · Android
+**Languages & frameworks** — Swift · SwiftUI · Flutter / Dart
 **Backend** — Cloudflare Workers · D1 · KV · Python (Django / FastAPI)
 **Practice** — clean architecture · unit testing · CI/CD · serverless
 
